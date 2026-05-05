@@ -1,0 +1,14 @@
+base_url = "https://isserge.github.io"
+title = "isserge"
+theme = "terminus"
+compile_sass = true
+build_search_index = true
+
+[markdown]
+render_emoji = true
+bottom_footnotes = true
+github_alerts = true
+
+[markdown.highlighting]
+style = "inline"
+theme = "monokai"
