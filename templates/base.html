@@ -1,5 +1,5 @@
 {% extends "terminus/templates/base.html" %}
 
-{% block extra_head %}
-<script defer src="https://cloud.umami.is/script.js" data-website-id="4b1db76f-a3e3-46d7-9ed7-6053542f334e"></script>
-{% endblock extra_head %}
+{% block title %}{{ config.title }}
+<script defer src="https://cloud.umami.is/script.js" data-website-id="4b1db76f-a3e3-46d7-9ed7-6053542f334e"></script>{%
+endblock %}
