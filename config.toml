@@ -12,3 +12,10 @@ github_alerts = true
 [markdown.highlighting]
 style = "inline"
 theme = "monokai"
+
+[extra.content_security_policy]
+enable = true
+allowed_domains = [
+    { directive = "script-src-elem", domains = ["cloud.umami.is"] },
+    { directive = "connect-src", domains = ["cloud.umami.is", "api-gateway.umami.dev"] },
+]
