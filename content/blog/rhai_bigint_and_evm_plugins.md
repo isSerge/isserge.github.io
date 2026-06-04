@@ -1,6 +1,6 @@
 +++
 title = "Embedding Lossless BigInt Arithmetic into Rhai"
-date = 2025-05-13
+date = 2026-05-13
 description = "How I built two open-source Rhai plugins to solve IEEE 754 precision loss in a blockchain stream processor."
 [taxonomies]
 tags = ["rust", "rhai", "blockchain", "open-source"]
