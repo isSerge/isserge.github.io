@@ -10,4 +10,4 @@ Hi, I'm Serge. Trying to build reliable solutions for unreliable environments. S
 
 Originally from Ukraine 🇺🇦, currently based in Spain 🇪🇸. 
 
-Occasionally sharing some of the challenges in this blog.
+Occasionally sharing my challenges in this blog. Some of my projects on [GitHub](https://github.com/isSerge)
