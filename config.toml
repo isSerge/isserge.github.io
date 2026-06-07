@@ -18,10 +18,13 @@ theme = "monokai"
 enable = true
 allowed_domains = [
     { directive = "script-src-elem", domains = [
+        "'self'",
         "cloud.umami.is",
     ] },
     { directive = "connect-src", domains = [
+        "'self'",
         "cloud.umami.is",
         "api-gateway.umami.dev",
+        "gateway.umami.is",
     ] },
 ]
