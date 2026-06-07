@@ -1,5 +1,6 @@
 +++
-title = "Home"
+title = "Rust & Systems Engineer blog"
+description = "Tech blog about system programming, Rust, blockchain, and more."
 
 [extra]
 section_path = "blog/_index.md"

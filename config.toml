@@ -1,9 +1,16 @@
 base_url = "https://isserge.github.io"
 title = "isserge"
+description = "Tech blog about system programming, Rust, blockchain, and more."
+default_language = "en"
+default_content_language = "en"
 theme = "terminus"
 compile_sass = true
 build_search_index = true
 taxonomies = [{ name = "tags", feed = true }]
+
+[extra]
+author = "Serge"
+favicon_emoji = "🦀"
 
 [markdown]
 render_emoji = true
